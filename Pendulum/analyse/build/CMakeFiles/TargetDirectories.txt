@@ -1,1 +1,0 @@
-/home/riddhish/Documents/git/RandomStuff/Pendulum/analyse/build/CMakeFiles/analyse.dir
